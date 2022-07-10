@@ -254,7 +254,7 @@ android {
                 output.versionCodeOverride =
                         defaultConfig.versionCode * 1000 + versionCodes.get(abi)
             }
-            def name = "frisles.apk"
+            def name = "chat.apk"
             output.outputFileName = name
         }
     }
