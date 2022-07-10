@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_loginarrow.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_loginarrow.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_map.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_map.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_images_profileplus.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/images_profileplus.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.frisles.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_images_splash.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/images_splash.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_illustration01.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_illustration01.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_markerarrow.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_markerarrow.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_pic2.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_pic2.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_illustration03.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_illustration03.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_images_illustration03.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/images_illustration03.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_profileplus.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_profileplus.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_images_loginarrow.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/images_loginarrow.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable_background_splash.xml.flat",
+        "source": "com.frisles.app-main-34:/drawable/background_splash.xml"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_close.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_close.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_images_illustration01.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/images_illustration01.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_splash.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_splash.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.frisles.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.frisles.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_pic1.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_pic1.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_illustration02.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_illustration02.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_assets_images_searchicon.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/assets_images_searchicon.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/mipmap-xhdpi_splash.png.flat",
+        "source": "com.frisles.app-main-34:/mipmap-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/mipmap-mdpi_splash.png.flat",
+        "source": "com.frisles.app-main-34:/mipmap-mdpi/splash.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/mipmap-hdpi_splash.png.flat",
+        "source": "com.frisles.app-main-34:/mipmap-hdpi/splash.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.frisles.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-mdpi_images_illustration02.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-mdpi/images_illustration02.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/layout_launch_screen.xml.flat",
+        "source": "com.frisles.app-main-34:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/mipmap-xxxhdpi_splash.png.flat",
+        "source": "com.frisles.app-main-34:/mipmap-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.frisles.app-main-34:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/mipmap-xxhdpi_splash.png.flat",
+        "source": "com.frisles.app-main-34:/mipmap-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.frisles.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.frisles.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

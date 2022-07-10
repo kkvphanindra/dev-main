@@ -4,7 +4,7 @@
 
 # Xcode
 #
-build/
+
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -23,7 +23,7 @@ DerivedData
 
 # Android/IntelliJ
 #
-build/
+
 .idea
 .gradle
 local.properties
@@ -67,7 +67,7 @@ amplify/logs
 amplify/mock-data
 amplify/backend/amplify-meta.json
 amplify/backend/.temp
-build/
+
 dist/
 node_modules/
 aws-exports.js
