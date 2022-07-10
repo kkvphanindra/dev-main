@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frisles-dev-154217-authRole",
+      "UnauthRoleArn": "arn:aws:iam::000795705189:role/amplify-frisles-dev-154217-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::000795705189:role/amplify-frisles-dev-154217-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-frisles-dev-154217-deployment",
+      "UnauthRoleName": "amplify-frisles-dev-154217-unauthRole",
+      "StackName": "amplify-frisles-dev-154217",
+      "StackId": "arn:aws:cloudformation:us-east-1:000795705189:stack/amplify-frisles-dev-154217/79ce35a0-f9ef-11ec-a969-122de11786bd",
+      "AmplifyAppId": "d3c1wr7p43tg2o"
+    },
+    "categories": {
+      "auth": {
+        "frislesb556d24b": {}
+      }
+    }
+  }
+}
